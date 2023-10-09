@@ -15,10 +15,6 @@
 
 <p align="left"> 
   <a> 
-    <img alt="React" src="https://img.shields.io/badge/-React-#61DAFB?logo=React&Color=white">
-  </a> 
-  &emsp;
-  <a> 
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
   </a> 
   &emsp;
