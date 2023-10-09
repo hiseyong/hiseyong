@@ -15,7 +15,7 @@
 
 <p align="left"> 
   <a> 
-    <img alt="React" src="https://img.shields.io/badge/-React-green?logo=node.js&Color=white">
+    <img alt="React" src="https://img.shields.io/badge/-React-#61DAFB?logo=React&Color=white">
   </a> 
   &emsp;
   <a> 
