@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Seyong Ahn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text="Hello there,"%20render&fontSize=90)
 
 <div align="center">
   
