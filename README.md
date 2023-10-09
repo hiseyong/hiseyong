@@ -12,6 +12,10 @@
 
 <p align="left"> 
   <a> 
+    <img alt="React" src="https://img.shields.io/badge/-React-green?logo=node.js&Color=white">
+  </a> 
+  &emsp;
+  <a> 
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
   </a> 
   &emsp;
@@ -57,6 +61,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=hiseyong&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hiseyong&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=hiseyong&theme=darcula&hide_border=true&background=FFFFFF00">
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={hiseyong})](https://solved.ac/{hiseyong})
   <br>
   <br>
  </p>
