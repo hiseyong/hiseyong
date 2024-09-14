@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello+there%2C+I%27m+Seyong+Ahn%20&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Imagination Becomes Reality%20&fontSize=60" />
 
 <div align="center">
 
@@ -40,14 +40,6 @@
   <a>
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
   </a>
-</p>
-
-
-## Connect with me:
-<p align="left">
-  <a href="https://www.instagram.com/i_don.t_count/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
 </p>
 
 -----
