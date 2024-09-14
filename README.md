@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Imagination Becomes Reality%20&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Imagination+Becomes+Reality%20&fontSize=60" />
 
 <div align="center">
 
