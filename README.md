@@ -7,6 +7,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Embedded+Systems+%C2%B7+Communications+%C2%B7+Physical+AI;Building+robots%2C+drones%2C+and+autonomous+systems)](https://git.io/typing-svg)
 
+  [![Website](https://img.shields.io/badge/Website-hiseyong.dev-0A66C2?logo=googlechrome&logoColor=white)](https://hiseyong.dev/)
   [![GitHub](https://img.shields.io/badge/GitHub-hiseyong-181717?logo=github&logoColor=white)](https://github.com/hiseyong)
   [![Email](https://img.shields.io/badge/Email-hiseyong1008%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:hiseyong1008@gmail.com)
   ![Profile views](https://komarev.com/ghpvc/?username=hiseyong&color=blueviolet&style=flat)
@@ -99,7 +100,7 @@ I work across robotics, autonomous systems, and signal processing — from sim-t
   <img height="180" src="https://ghstats.dev/api/langs?username=hiseyong&theme=dracula&layout=compact&hide_border=true&max_langs=6" alt="Top languages">
   <img height="180" src="https://streak-stats.demolab.com/?user=hiseyong&theme=dark&hide_border=true&background=00000000&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub streak">
   <br>
-  <img height="180" src="https://ghstats.dev/api/card?username=hiseyong&theme=dracula&hide_border=true&show_icons=true" alt="GitHub stats">
+  <img width="495" src="https://ghstats.dev/api/card?username=hiseyong&theme=dracula&hide_border=true&show_icons=true" alt="GitHub stats">
   <br>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiseyong&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph">
 </p>
