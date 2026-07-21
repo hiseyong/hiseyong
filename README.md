@@ -96,15 +96,12 @@ I work across robotics, autonomous systems, and signal processing — from sim-t
 -----
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiseyong&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top languages">
+  <img height="180" src="https://ghstats.dev/api/langs?username=hiseyong&theme=dracula&layout=compact&hide_border=true&max_langs=6" alt="Top languages">
   <img height="180" src="https://streak-stats.demolab.com/?user=hiseyong&theme=dark&hide_border=true&background=00000000&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub streak">
   <br>
+  <img height="180" src="https://ghstats.dev/api/card?username=hiseyong&theme=dracula&hide_border=true&show_icons=true" alt="GitHub stats">
+  <br>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiseyong&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiseyong&theme=github_dark&utcOffset=9" alt="Productive time">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiseyong&theme=github_dark" alt="Profile stats card">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
