@@ -96,13 +96,15 @@ I work across robotics, autonomous systems, and signal processing — from sim-t
 -----
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=hiseyong&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiseyong&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hiseyong&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiseyong&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top languages">
+  <img height="180" src="https://streak-stats.demolab.com/?user=hiseyong&theme=dark&hide_border=true&background=00000000&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub streak">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hiseyong&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=8" alt="trophy">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiseyong&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph">
   <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiseyong&theme=github_dark&utcOffset=9" alt="Productive time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiseyong&theme=github_dark" alt="Profile stats card">
   <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
