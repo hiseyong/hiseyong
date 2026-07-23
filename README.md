@@ -90,7 +90,6 @@ I work across robotics, autonomous systems, and signal processing — from sim-t
 - Bronze Award · KSEF Science Project Competition (Feb. 2025)
 - Excellence Award · Youth Engineering Leader Autonomous Vehicle Competition, HYUNDAI MOBIS (Nov. 2024)
 - Silver Award · National Student Design Competition, KSME (Oct. 2024)
-- Encouragement Award · Korea Software Congress, KIISE (Jul. 2024)
 - Excellence Award · Youth Engineering Academic Conference, HYUNDAI MOBIS (Jul. 2024)
 - Bronze Award · National Student Design Competition, KSME (Oct. 2023)
 
