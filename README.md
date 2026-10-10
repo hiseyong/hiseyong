@@ -77,7 +77,7 @@ I work across robotics, autonomous systems, and signal processing — from sim-t
 
 ## Publications
 
-- **Physics-Constrained ResNet-based Automatic Modulation Classification for Low-SNR Robustness** — *KCC 2026* (accepted, sole author)
+- **Physics-Constrained ResNet-based Automatic Modulation Classification for Low-SNR Robustness** — *Korea Software Congress (KCC) 2023*
 - **Reinforcement Learning Algorithm and Sim-to-Real Transfer for Active Autonomous Driving** — *HYUNDAI MOBIS Youth Engineering Academic Conference 2025*
 - **Lane Image Frame Prediction and Noise Reduction for High-Speed AV Environments** — *HYUNDAI MOBIS Youth Engineering Academic Conference 2025*
 - **Where We Are Is Real** — *HYUNDAI MOBIS Youth Engineering Academic Conference 2024*
